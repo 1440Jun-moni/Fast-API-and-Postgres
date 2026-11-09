@@ -1,0 +1,65 @@
+{
+    "S001": {
+        "name": "Junmoni",
+        "age": 20,
+        "email": "aarav.sharma@example.com",
+        "course": "Python",
+        "marks": 94
+    },
+    "S002": {
+        "name": "Diya Patel",
+        "age": 45,
+        "email": "diya.patel@example.com",
+        "course": "Data Science",
+        "marks": 90
+    },
+    "S003": {
+        "name": "Surya",
+        "age": 90,
+        "email": "surya.tiwari@gmail.com",
+        "course": "AI/ML Engineer",
+        "marks": 78
+    },
+    "S004": {
+        "name": "Kiyara",
+        "age": 19,
+        "email": "kiyara.gupta@gmail.com",
+        "course": "CSE",
+        "marks": 87
+    },
+    "S005": {
+        "name": "Sakshi",
+        "age": 18,
+        "email": "sakshi.patel@gmail.com",
+        "course": "Data Science",
+        "marks": 78
+    },
+    "S006": {
+        "name": "Snehil",
+        "age": 15,
+        "course": "law",
+        "marks": 100,
+        "email": "user@example.com"
+    },
+    "S008": {
+        "name": "Priyanshi",
+        "age": 18,
+        "course": "Python",
+        "marks": 90,
+        "email": "priyanshi@gmail.com"
+    },
+    "S009": {
+        "name": "Aviral",
+        "age": 20,
+        "course": "AI",
+        "marks": 100,
+        "email": "aviral@gmail.com"
+    },
+    "S007": {
+        "name": "Jasmin Kaur",
+        "age": 19,
+        "course": "Python",
+        "marks": 100,
+        "email": "jasmin@gmail.com"
+    }
+}
